@@ -10,7 +10,7 @@ let middleInitial = "J";
 //create a variable to hold true if it's hot outside and false if it's cold outside
 let isHotOutside = false;
 //create a variable to hold a customer's first name
-let customerFirstName 'Sally'
+let customerFirstName ='Sally';
 
 //create a variable to hold a street address
 let streetAddress = '1234 W Baller Ln' 
