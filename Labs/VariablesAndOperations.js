@@ -17,7 +17,7 @@ let streetAddress = '1234 W Baller Ln'
 
 //print all variables to the console
 console.log(availablePlaneSeats);
-
+console.log(costOfGroceries);
 
 
 //a customer booked 2 plane seats, remove 2 seats from the available seats variable
