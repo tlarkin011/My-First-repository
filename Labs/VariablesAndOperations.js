@@ -10,7 +10,7 @@ if (mySpeed > speedLimit){ console.log(" Slow down! mom is mad!")
 }
 else if (mySpeed == speedLimit)[console.log(" Everybody is happy.")]
 else[
-console.log(" Speed up dad is mad!");]
+console.log(" Speed up dad is mad!")];
 
 // create two variables, one named alarmSet, the other openDoor
 // set them to a boolean value
